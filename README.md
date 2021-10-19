@@ -1,6 +1,8 @@
-# Getting Started with Create React App
-
+# About
 This application is the front end implementation of a stay rental project.
+Demo : https://test.d1a4brh2zml5tw.amplifyapp.com/
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
