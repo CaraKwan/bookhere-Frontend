@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This application is the front end implementation of a stay rental project.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
